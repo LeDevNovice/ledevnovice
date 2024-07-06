@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**LeDevNovice/ledevnovice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I'm Greg, aka LeDevNovice, a very passionate developer interested by programming and web subjects.<br>
+I'm convince that in the web and programming, there is always something to learn.<br>
+So I would always be a novice in terms of the amount of knowledge to learn.<br>
+I always be LeDevNovice._
 
-Here are some ideas to get you started:
+👯 _Working for Apizr, Member of @codinglab-io.<br>_
+🔭 _Love to work and learn on TypeScript, NestJS, Algorithms & Data Structure, Elasticsearch, Kubernetes, Docker, CI/CD<br>_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact 📫
+
+💬 Ask me anything on <a href="https://x.com/ledevnovice">Twitter</a><br>
+📫 Or by email: gregory.saison@proton.me
