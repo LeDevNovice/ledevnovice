@@ -6,7 +6,7 @@ So I would always be a novice in terms of the amount of knowledge to learn.<br>
 I always be LeDevNovice._
 
 👯 _Working for Apizr, Member of @codinglab-io.<br>_
-🐦 _Share and learn on Twitter with +7000 fellows._
+🐦 _Share and learn on Twitter with +7000 fellows.<br>_
 🔭 _Love to work and learn on TypeScript, NestJS, Algorithms & Data Structure, Elasticsearch, Kubernetes, Docker, CI/CD<br>_
 
 ### Contact 📫
