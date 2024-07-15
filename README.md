@@ -13,3 +13,6 @@ I always be LeDevNovice._
 
 💬 Ask me anything on <a href="https://x.com/ledevnovice">Twitter</a><br>
 📫 Or by email: gregory.saison@proton.me
+
+### Open Source 📫
+<a href="https://github.com/nestjs/nest-cli/issues/2636">Nest CLI Proposal - Duplicates and rename resource structure command</a>
