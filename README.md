@@ -16,3 +16,6 @@ I always be LeDevNovice._
 
 ### Open Source 🚀
 <a href="https://github.com/nestjs/nest-cli/issues/2636">Nest CLI Proposal - Add duplicates and rename resource structure command</a>
+
+### Activities 💻
+<a href="https://stackoverflow.com/users/26350528/ledevnovice"><img src="https://stackoverflow.com/users/flair/26350528.png?theme=dark" width="208" height="58" alt="profile for LeDevNovice at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for LeDevNovice at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
